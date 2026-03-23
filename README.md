@@ -174,5 +174,5 @@ This project demonstrates understanding of:
 ---
 
 ## 📷 Architecture Diagram
+https://drive.google.com/file/d/1kwD2_rRdtI5p44BDa40AiiVJXC2GriLu/view?usp=sharing
 
-(Add architecture diagram image here)
